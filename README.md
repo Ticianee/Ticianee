@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Ticiane 👋
 
-- 🔭 Hoje trabalho como suporte aos Analistas de Redes (NOC)
+- 🔭 Ainda estou a procura de um estágio
 - 🌱 Estudando JavaScript
 
 <div align="center">
