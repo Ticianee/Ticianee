@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Ticiane 👋
 
-- 🔭 Ainda estou a procura de um estágio
+- 🔭 Estou a procura de um estágio
 - 🌱 Estudando JavaScript
 
 <div align="center">
