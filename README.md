@@ -1,7 +1,7 @@
-## Oii! Eu sou a Ticiane 👋
+## Hii! I am Ticiane 👋
 
-- 🔭 Estou a procura de um estágio
-- 🌱 Estudando JavaScript
+- 🔭 I am looking for an internship
+- 🌱 Front-end Engineer
 
 <div align="center">
   <a href="https://github.com/Ticianee">
